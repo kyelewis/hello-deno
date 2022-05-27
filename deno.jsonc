@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "oak": "deno run --allow-net src/oak.ts --no-check"
+  }
+}
